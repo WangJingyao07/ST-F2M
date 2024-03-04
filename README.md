@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/to_be_continue-orange)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07/ST-F2M)
 ![Repo Clones](https://img.shields.io/badge/Clones-3-blue)
-![Stars](https://img.shields.io/github/stars/WangJingyao07/Adaptive-Sampler)
+![Stars](https://img.shields.io/github/stars/WangJingyao07/ST-F2M)
 
 🌈 Official Code for **Spatio-Temporal Fuzzy-oriented Multi-modal Meta-learning for Fine-grained Emotion Recognition**
 
